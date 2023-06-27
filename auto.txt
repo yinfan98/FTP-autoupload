@@ -1,0 +1,190 @@
+check thread
+thread not exist,open thread
+*************************connect success******************
+
+
+clean now list /root/test_fan/
+clean finished!
+
+['0528'] [] [] 0
+正常上传
+ftp up /home/gui/images/source/20220528/2007_000032.jpg OK to 2007_000032.jpg
+ftp up /home/gui/images/source/20220528/2007_000042.jpg OK to 2007_000042.jpg
+ftp up /home/gui/images/source/20220528/2007_000170.jpg OK to 2007_000170.jpg
+ftp up /home/gui/images/source/20220528/2007_000187.jpg OK to 2007_000187.jpg
+ftp up /home/gui/images/source/20220528/2007_000241.jpg OK to 2007_000241.jpg
+ftp up /home/gui/images/source/20220528/2007_000061.jpg OK to 2007_000061.jpg
+ftp up /home/gui/images/source/20220528/2007_000068.jpg OK to 2007_000068.jpg
+ftp up /home/gui/images/source/20220528/2007_000121.jpg OK to 2007_000121.jpg
+ftp up /home/gui/images/source/20220528/2007_000129.jpg OK to 2007_000129.jpg
+ftp up /home/gui/images/source/20220528/2007_000250.jpg OK to 2007_000250.jpg
+ftp up /home/gui/images/source/20220528/2007_000039.jpg OK to 2007_000039.jpg
+ftp up /home/gui/images/source/20220528/2007_000837.jpg OK to 2007_000837.jpg
+ftp up /home/gui/images/source/20220528/2007_000830.jpg OK to 2007_000830.jpg
+ftp up /home/gui/images/source/20220528/2007_000836.jpg OK to 2007_000836.jpg
+ftp up /home/gui/images/source/20220528/2012_004238.jpg OK to 2012_004238.jpg
+ftp up /home/gui/images/source/20220528/2012_004241.jpg OK to 2012_004241.jpg
+ftp up /home/gui/images/source/20220528/2012_004244.jpg OK to 2012_004244.jpg
+ftp up /home/gui/images/source/20220528/2012_004246.jpg OK to 2012_004246.jpg
+ftp up /home/gui/images/source/20220528/2012_004247.jpg OK to 2012_004247.jpg
+ftp up /home/gui/images/source/20220528/2012_004249.jpg OK to 2012_004249.jpg
+ftp up /home/gui/images/source/20220528/2012_004250.jpg OK to 2012_004250.jpg
+ftp up /home/gui/images/source/20220528/2012_004254.jpg OK to 2012_004254.jpg
+ftp up /home/gui/images/source/20220528/2012_004256.jpg OK to 2012_004256.jpg
+ftp up /home/gui/images/source/20220528/2012_004258.jpg OK to 2012_004258.jpg
+ftp up /home/gui/images/source/20220528/2012_004262.jpg OK to 2012_004262.jpg
+ftp up /home/gui/images/source/20220528/2012_004268.jpg OK to 2012_004268.jpg
+ftp up /home/gui/images/source/20220528/2012_004270.jpg OK to 2012_004270.jpg
+ftp up /home/gui/images/source/20220528/2012_004273.jpg OK to 2012_004273.jpg
+ftp up /home/gui/images/source/20220528/2012_004274.jpg OK to 2012_004274.jpg
+ftp up /home/gui/images/source/20220528/2012_004281.jpg OK to 2012_004281.jpg
+ftp up /home/gui/images/source/20220528/2012_004283.jpg OK to 2012_004283.jpg
+ftp up /home/gui/images/source/20220528/2012_004285.jpg OK to 2012_004285.jpg
+ftp up /home/gui/images/source/20220528/2012_004289.jpg OK to 2012_004289.jpg
+ftp up /home/gui/images/source/20220528/2012_004291.jpg OK to 2012_004291.jpg
+ftp up /home/gui/images/source/20220528/2012_004292.jpg OK to 2012_004292.jpg
+ftp up /home/gui/images/source/20220528/2012_004295.jpg OK to 2012_004295.jpg
+ftp up /home/gui/images/source/20220528/2012_004298.jpg OK to 2012_004298.jpg
+ftp up /home/gui/images/source/20220528/2012_004300.jpg OK to 2012_004300.jpg
+ftp up /home/gui/images/source/20220528/2012_004302.jpg OK to 2012_004302.jpg
+ftp up /home/gui/images/source/20220528/2012_004306.jpg OK to 2012_004306.jpg
+ftp up /home/gui/images/source/20220528/2012_004308.jpg OK to 2012_004308.jpg
+ftp up /home/gui/images/source/20220528/2012_004310.jpg OK to 2012_004310.jpg
+ftp up /home/gui/images/source/20220528/2012_004312.jpg OK to 2012_004312.jpg
+ftp up /home/gui/images/source/20220528/2012_004317.jpg OK to 2012_004317.jpg
+ftp up /home/gui/images/source/20220528/2012_004319.jpg OK to 2012_004319.jpg
+ftp up /home/gui/images/source/20220528/2012_004328.jpg OK to 2012_004328.jpg
+ftp up /home/gui/images/source/20220528/2012_004329.jpg OK to 2012_004329.jpg
+ftp up /home/gui/images/source/20220528/2012_004331.jpg OK to 2012_004331.jpg
+ftp up /home/gui/images/source/20220528/2012_004226.jpg OK to 2012_004226.jpg
+ftp up /home/gui/images/source/20220528/2012_004229.jpg OK to 2012_004229.jpg
+ftp up /home/gui/images/source/20220528/2012_004231.jpg OK to 2012_004231.jpg
+ftp up /home/gui/images/source/20220528/2012_004239.jpg OK to 2012_004239.jpg
+ftp up /home/gui/images/source/20220528/2012_004245.jpg OK to 2012_004245.jpg
+ftp up /home/gui/images/source/20220528/2012_004248.jpg OK to 2012_004248.jpg
+ftp up /home/gui/images/source/20220528/2012_004251.jpg OK to 2012_004251.jpg
+ftp up /home/gui/images/source/20220528/2012_004257.jpg OK to 2012_004257.jpg
+ftp up /home/gui/images/source/20220528/2012_004267.jpg OK to 2012_004267.jpg
+ftp up /home/gui/images/source/20220528/2012_004272.jpg OK to 2012_004272.jpg
+ftp up /home/gui/images/source/20220528/2012_004276.jpg OK to 2012_004276.jpg
+ftp up /home/gui/images/source/20220528/2012_004284.jpg OK to 2012_004284.jpg
+ftp up /home/gui/images/source/20220528/2012_004290.jpg OK to 2012_004290.jpg
+ftp up /home/gui/images/source/20220528/2012_004293.jpg OK to 2012_004293.jpg
+ftp up /home/gui/images/source/20220528/2012_004299.jpg OK to 2012_004299.jpg
+ftp up /home/gui/images/source/20220528/2012_004303.jpg OK to 2012_004303.jpg
+ftp up /home/gui/images/source/20220528/2012_004309.jpg OK to 2012_004309.jpg
+ftp up /home/gui/images/source/20220528/2012_004315.jpg OK to 2012_004315.jpg
+ftp up /home/gui/images/source/20220528/2012_004326.jpg OK to 2012_004326.jpg
+今日上传完成，待检测
+0528日所有文件都已传完
+['0527'] [] [] 2
+错误1，2检测
+something upload failed,re upload
+本次文件上传有遗漏/home/gui/images/source/20220527
+ftp up /home/gui/images/source/20220527/2007_000904.jpg OK to 2007_000904.jpg
+ftp up /home/gui/images/source/20220527/2007_000925.jpg OK to 2007_000925.jpg
+ftp up /home/gui/images/source/20220527/2007_000876.jpg OK to 2007_000876.jpg
+
+*************************检测完成,exit**********************
+check thread
+thread not exist,open thread
+*************************connect success******************
+
+
+clean now list /root/test_fan/
+clean finished!
+
+0528日所有文件都已传完
+0527日所有文件都已传完
+[] [] [] -1
+所有文件都已上传完成，check
+
+0528日所有文件都已传完
+0527日所有文件都已传完
+[] [] [] -1
+
+*************************检测完成,exit**********************
+check thread
+thread not exist,open thread
+*************************connect success******************
+
+
+clean now list /root/test_fan/
+clean finished!
+
+本地文件缺失
+['0528'] [] [] 1
+0528日文件未上传完全
+ftp up /home/gui/images/source/20220528/2007_000032.jpg OK to 2007_000032.jpg
+ftp up /home/gui/images/source/20220528/2007_000042.jpg OK to 2007_000042.jpg
+ftp up /home/gui/images/source/20220528/2007_000170.jpg OK to 2007_000170.jpg
+ftp up /home/gui/images/source/20220528/2007_000187.jpg OK to 2007_000187.jpg
+ftp up /home/gui/images/source/20220528/2007_000241.jpg OK to 2007_000241.jpg
+ftp up /home/gui/images/source/20220528/2007_000061.jpg OK to 2007_000061.jpg
+ftp up /home/gui/images/source/20220528/2007_000068.jpg OK to 2007_000068.jpg
+ftp up /home/gui/images/source/20220528/2007_000121.jpg OK to 2007_000121.jpg
+ftp up /home/gui/images/source/20220528/2007_000129.jpg OK to 2007_000129.jpg
+ftp up /home/gui/images/source/20220528/2007_000250.jpg OK to 2007_000250.jpg
+ftp up /home/gui/images/source/20220528/2007_000039.jpg OK to 2007_000039.jpg
+ftp up /home/gui/images/source/20220528/2007_000837.jpg OK to 2007_000837.jpg
+ftp up /home/gui/images/source/20220528/2007_000830.jpg OK to 2007_000830.jpg
+ftp up /home/gui/images/source/20220528/2007_000836.jpg OK to 2007_000836.jpg
+ftp up /home/gui/images/source/20220528/2012_004238.jpg OK to 2012_004238.jpg
+ftp up /home/gui/images/source/20220528/2012_004241.jpg OK to 2012_004241.jpg
+ftp up /home/gui/images/source/20220528/2012_004244.jpg OK to 2012_004244.jpg
+ftp up /home/gui/images/source/20220528/2012_004246.jpg OK to 2012_004246.jpg
+ftp up /home/gui/images/source/20220528/2012_004247.jpg OK to 2012_004247.jpg
+ftp up /home/gui/images/source/20220528/2012_004249.jpg OK to 2012_004249.jpg
+ftp up /home/gui/images/source/20220528/2012_004250.jpg OK to 2012_004250.jpg
+ftp up /home/gui/images/source/20220528/2012_004254.jpg OK to 2012_004254.jpg
+ftp up /home/gui/images/source/20220528/2012_004256.jpg OK to 2012_004256.jpg
+ftp up /home/gui/images/source/20220528/2012_004258.jpg OK to 2012_004258.jpg
+ftp up /home/gui/images/source/20220528/2012_004262.jpg OK to 2012_004262.jpg
+ftp up /home/gui/images/source/20220528/2012_004268.jpg OK to 2012_004268.jpg
+ftp up /home/gui/images/source/20220528/2012_004270.jpg OK to 2012_004270.jpg
+ftp up /home/gui/images/source/20220528/2012_004273.jpg OK to 2012_004273.jpg
+ftp up /home/gui/images/source/20220528/2012_004274.jpg OK to 2012_004274.jpg
+ftp up /home/gui/images/source/20220528/2012_004281.jpg OK to 2012_004281.jpg
+ftp up /home/gui/images/source/20220528/2012_004283.jpg OK to 2012_004283.jpg
+ftp up /home/gui/images/source/20220528/2012_004285.jpg OK to 2012_004285.jpg
+ftp up /home/gui/images/source/20220528/2012_004289.jpg OK to 2012_004289.jpg
+ftp up /home/gui/images/source/20220528/2012_004291.jpg OK to 2012_004291.jpg
+ftp up /home/gui/images/source/20220528/2012_004292.jpg OK to 2012_004292.jpg
+ftp up /home/gui/images/source/20220528/2012_004295.jpg OK to 2012_004295.jpg
+ftp up /home/gui/images/source/20220528/2012_004298.jpg OK to 2012_004298.jpg
+ftp up /home/gui/images/source/20220528/2012_004300.jpg OK to 2012_004300.jpg
+ftp up /home/gui/images/source/20220528/2012_004302.jpg OK to 2012_004302.jpg
+ftp up /home/gui/images/source/20220528/2012_004306.jpg OK to 2012_004306.jpg
+ftp up /home/gui/images/source/20220528/2012_004308.jpg OK to 2012_004308.jpg
+ftp up /home/gui/images/source/20220528/2012_004310.jpg OK to 2012_004310.jpg
+ftp up /home/gui/images/source/20220528/2012_004312.jpg OK to 2012_004312.jpg
+ftp up /home/gui/images/source/20220528/2012_004317.jpg OK to 2012_004317.jpg
+ftp up /home/gui/images/source/20220528/2012_004319.jpg OK to 2012_004319.jpg
+ftp up /home/gui/images/source/20220528/2012_004328.jpg OK to 2012_004328.jpg
+ftp up /home/gui/images/source/20220528/2012_004329.jpg OK to 2012_004329.jpg
+ftp up /home/gui/images/source/20220528/2012_004331.jpg OK to 2012_004331.jpg
+ftp up /home/gui/images/source/20220528/2012_004226.jpg OK to 2012_004226.jpg
+ftp up /home/gui/images/source/20220528/2012_004229.jpg OK to 2012_004229.jpg
+ftp up /home/gui/images/source/20220528/2012_004231.jpg OK to 2012_004231.jpg
+ftp up /home/gui/images/source/20220528/2012_004239.jpg OK to 2012_004239.jpg
+ftp up /home/gui/images/source/20220528/2012_004245.jpg OK to 2012_004245.jpg
+ftp up /home/gui/images/source/20220528/2012_004248.jpg OK to 2012_004248.jpg
+ftp up /home/gui/images/source/20220528/2012_004251.jpg OK to 2012_004251.jpg
+ftp up /home/gui/images/source/20220528/2012_004257.jpg OK to 2012_004257.jpg
+ftp up /home/gui/images/source/20220528/2012_004267.jpg OK to 2012_004267.jpg
+ftp up /home/gui/images/source/20220528/2012_004272.jpg OK to 2012_004272.jpg
+ftp up /home/gui/images/source/20220528/2012_004276.jpg OK to 2012_004276.jpg
+ftp up /home/gui/images/source/20220528/2012_004284.jpg OK to 2012_004284.jpg
+ftp up /home/gui/images/source/20220528/2012_004290.jpg OK to 2012_004290.jpg
+ftp up /home/gui/images/source/20220528/2012_004293.jpg OK to 2012_004293.jpg
+ftp up /home/gui/images/source/20220528/2012_004299.jpg OK to 2012_004299.jpg
+ftp up /home/gui/images/source/20220528/2012_004303.jpg OK to 2012_004303.jpg
+ftp up /home/gui/images/source/20220528/2012_004309.jpg OK to 2012_004309.jpg
+ftp up /home/gui/images/source/20220528/2012_004315.jpg OK to 2012_004315.jpg
+ftp up /home/gui/images/source/20220528/2012_004326.jpg OK to 2012_004326.jpg
+0528日文件补全成功
+本地文件缺失
+本地文件缺失
+[] [] [] -1
+
+*************************检测完成,exit**********************
