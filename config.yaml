@@ -11,7 +11,7 @@ Connection:
   pwd: xxxx #ssh连接默认密码
 
 sub:
- subftpname: gui_2022_ #网络存储格式
+ subftpname: 2022 #网络存储格式
  sublocname: 2022 #本地存储格式
 
 ###################本地文件夹子目录中，最后一集的名字默认按时间+日期命名
